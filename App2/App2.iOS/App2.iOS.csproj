@@ -156,4 +156,7 @@
       <Name>App2</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\xamarin.png" />
+  </ItemGroup>
 </Project>
