@@ -11,7 +11,7 @@ namespace App2
 		{
 			InitializeComponent();
 
-			MainPage = new TipoPagina.Carousel.TipoPagina1();
+			MainPage = new TipoPagina.Carousel.IntroducaoApp();
 		}
 
 		protected override void OnStart ()
